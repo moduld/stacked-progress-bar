@@ -1,0 +1,36 @@
+<div class="horisontal">
+  <stacked-progressbar
+          [progressValue]="20"
+          [progressColor]="'27a5f9'"
+          [position]="'horizontal'"
+          [stacked]="true"
+          [height]="10"
+          [transition]="1"></stacked-progressbar>
+  <stacked-progressbar
+          [progressValue]="20"
+          [progressColor]="'7b828a'"
+          [position]="'horizontal'"
+          [stacked]="true"
+          [height]="10"
+          [transition]="1"></stacked-progressbar>
+</div>
+
+<div class="vertical" #rightTop>
+  <stacked-progressbar
+          [progressValue]="35"
+          [progressColor]="'ffbe00'"
+          [position]="'vertical'"
+          [stacked]="true"
+          [height]="10"
+          [container]="rightTop"
+          [transition]="1"></stacked-progressbar>
+
+  <stacked-progressbar
+          [progressValue]="15"
+          [progressColor]="'96d3d8'"
+          [position]="'vertical'"
+          [stacked]="true"
+          [width]="10"
+          [container]="rightTop"
+          [transition]="1"></stacked-progressbar>
+</div>
