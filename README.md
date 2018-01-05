@@ -2,6 +2,7 @@ Stacked and not stacked progress bar for Angular 4
 
 <p align="center">
   <img height="170px" width="118px" style="text-align: center;" src="http://dl3.joxi.net/drive/2018/01/05/0025/0294/1671462/62/ce47f70034.jpg">
+  <img height="96px" width="302px" style="text-align: center;" src="http://dl3.joxi.net/drive/2018/01/05/0025/0294/1671462/62/ba0dff4f56.jpg">
 </p>
 
 ## Installation
